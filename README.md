@@ -1,4 +1,4 @@
-Hi there! How is it going?! Thanks for stopping by!! 👋
+Hi there!
 
 My name is Brendan, but my username for most places is @Drendos!
 
@@ -13,4 +13,3 @@ I’m looking for help with continuing my learning in terms of coding and softwa
 Ask me about Java, Python, Bootstrap, or HTML !!
 How to reach me: @drendos on Discord, I will list my other forms of communication shortly!
 Pronouns: He/Him
-Fun fact: I love running, and Iam currently training for a marathon !!
