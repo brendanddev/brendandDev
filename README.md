@@ -11,7 +11,9 @@ Ask me about **Python, Java, HTML, CSS, Bootstrap, and JavaScript!**
 
 Reach me at **devdrendos@gmail.com**
 
-Fun fact **My favourite Pokemon is Zekrom, and I like to golf!**
+Iam passionate about **computers, technology, gaming, outdoors, and sports!**
+
+Fun fact **My favourite Pokemon is Zekrom, I built my first computer in the 5th grade, and I like to golf!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
