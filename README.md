@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brendan!</h1>
+<h1 align="center">Hi 👋, I'm Brendan / @Drendos !! </h1>
 <h3 align="center">A passionate frontend developer from Toronto</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdrendos" alt="devdrendos" /></a> </p>
