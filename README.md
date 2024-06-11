@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Brendan / @Drendos !! </h1>
-<h3 align="center">A passionate frontend developer from Toronto</h3>
+<h1 align="center">Greetings, I'm Brendan / @Drendos !!</h1>
+<h3 align="center">A passionate backend & frontend developer from Toronto</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdrendos" alt="devdrendos" /></a> </p>
-
-- 🔭 I’m currently working on **2D Open World Game**
+- 🔭 I’m currently working on an **2D Open World Game, Call Of Duty mods, Pokemon Go Trading Calculator, and other various personal prijects!**
 
 - 🌱 I’m currently learning **C++, C#, Rust, .NET**
 
+- 👯 I’m looking to collaborate on **Anything!**
+
 - 💬 Ask me about **Python, Java, HTML, CSS, JavaScript,**
 
-- 📫 How to reach me **@drendos**
+- 📫 How to reach me **devdrendos@gmail.com**
+
+- ⚡ Fun fact **My favourite Pokemon is Zekrom!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/drendos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="drendos" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/devdrendos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devdrendos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
