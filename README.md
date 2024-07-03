@@ -1,11 +1,11 @@
 <h1 align="center">Greetings, I'm Brendan / @Drendos !!</h1>
 <h3 align="center">A passionate backend & frontend developer from Toronto</h3>
 
-I’m currently working on an **2D Open World Game (Godot Engine), an remake of the classic Snake Game (Java), Call Of Duty mods (C++), Pokemon Go Trading Calculator (Java), and other various personal prijects!**
+I’m currently working on an **2D Open World Game (Godot Engine), an remake of the classic Snake Game (Java), Call Of Duty mods (GSC/C++), Pokemon Go Trading Calculator (Java), and other various personal prijects!**
 
 I’m currently learning **C++, C#, Rust, .NET**
 
-I’m looking to collaborate on **all sorts of projects!**
+I’m looking to collaborate on **all sorts of projects! Especially game mods!**
 
 Ask me about **Python, Java, HTML, CSS, Bootstrap, and JavaScript!**
 
