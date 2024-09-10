@@ -3,7 +3,7 @@
 
 I’m currently working on an **Call Of Duty Black Ops 1, 2, & 3 Mods (GSC, CSC, C++), a 2D Open World Game (Godot Engine), and other various personal projects!**
 
-I’m currently learning **C++, C#, Rust, .NET**
+I’m currently learning **C++, C#, PHP, SQL**
 
 I’m looking to collaborate on **all sorts of projects! Especially game mods!**
 
