@@ -1,9 +1,17 @@
 <h1 align="center">Greetings, I'm Brendan / @brendanddev !!</h1>
 <h3 align="center">A passionate backend & frontend developer from Toronto</h3>
 
-I’m currently working on an **Call Of Duty Black Ops 1, 2, & 3 Mods (GSC, CSC, C++), a 2D Open World Game (Godot Engine), and other various personal projects!**
+### I’m currently working on
+* Call Of Duty Black Ops 2 & 3 Mods (Using GSC, CSC, Luna, C++)
+* 2D Open World Game (Godot & Unity)
+* Command Line Personal Assistant (BASH)
+* Employee Management App (C#, SQL)
+* Other various personal projects!
 
-I’m currently learning **C++, C#, PHP, SQL**
+### I’m currently learning
+* C# * PHP
+* SQL Server * C++
+* Bash * MySQL
 
 I’m looking to collaborate on **all sorts of projects! Especially game mods!**
 
