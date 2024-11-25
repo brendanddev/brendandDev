@@ -9,17 +9,34 @@
 * Other various personal projects!
 
 ### I’m currently learning
-* C# * PHP
-* SQL Server * C++
-* Bash * MySQL
+* C#
+* PHP
+* Bash
+* C++
+* MySQL
 
-I’m looking to collaborate on **all sorts of projects! Especially game mods!**
+### Skills
+* **Programming Languagues:** Python, Java, JavaScript, HTML, CSS,
+* **Database Development:** SQL, Sql Server
+* **Game Development:** Unity, Godot, GSC, CSC
+* **Scripting & Automation:** Bash, PowerShell
+* **Version Control:** Git, Github
 
-Ask me about **Python, Java, HTML, CSS, Bootstrap, and JavaScript!**
+### Collaboration Ideas
+* Game Mods
+* 2D Games, 3D Games
+* Applications (Java, C#, C++, Python, JavaScript)
 
-Reach me at **devdrendos@gmail.com**
+### Interests
+* Building / Fixing Computers
+* Gaming
+* Pokemon
+* Coding
 
-Iam passionate about **computers, technology, gaming, outdoors, and sports!**
+### Reach me at 
+* **Email:** dileob23@gmail.com, devdrendos@gmail.com
+* **StackOverflow:** @devbrendandileo
+* **LinkedIn:** @brendandileo (brendan-dileo)
 
 Fun fact **My favourite Pokemon is Zekrom, I built my first computer in the 5th grade, and I like to golf!**
 
