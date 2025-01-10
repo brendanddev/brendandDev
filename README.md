@@ -4,9 +4,9 @@
 ### I’m currently working on
 * Call Of Duty Black Ops 2 & 3 Mods (Using GSC, CSC, Luna, C++)
 * 2D Open World Game (Godot & Unity)
-* Command Line Personal Assistant (BASH)
 * Employee Management App (C#, SQL)
 * Other various personal projects!
+
 ### I’m currently learning
 * C#
 * PHP
@@ -14,11 +14,11 @@
 * C++
 * MySQL
 ### Skills
-* **Programming Languagues:** Python, Java, JavaScript, HTML, CSS,
-* **Database Development:** SQL, Sql Server
-* **Game Development:** Unity, Godot, GSC, CSC
-* **Scripting & Automation:** Bash, PowerShell
-* **Version Control:** Git, Github
+* Java, C#, Python, JavaScript, C++, HTML, CSS, 
+* SQL, Sql Server
+* Unity, Godot, GSC, CSC
+* Bash, PowerShell
+* Git, Github
 ### Collaboration Ideas
 * Game Mods
 * 2D Games, 3D Games
@@ -26,7 +26,6 @@
 ### Interests
 * Building / Fixing Computers
 * Gaming
-* Pokemon
 * Coding
 ### Reach me at 
 * **Email:** dileob23@gmail.com, devdrendos@gmail.com
