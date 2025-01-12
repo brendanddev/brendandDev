@@ -1,37 +1,16 @@
-<h1 align="center">Greetings, I'm Brendan / @brendanddev !!</h1>
-<h3 align="center">A passionate backend & frontend developer from Toronto</h3>
+<h1 align="center">Hello, I'm Brendan / @brendanddev !!</h1>
+<h3 align="center">An aspiring full stack developer from Tronto!</h3>
 
-### I’m currently working on
-* Call Of Duty Black Ops 2 & 3 Mods (Using GSC, CSC, Luna, C++)
-* 2D Open World Game (Godot & Unity)
-* Employee Management App (C#, SQL)
-* Other various personal projects!
-
-### I’m currently learning
-* C#
-* PHP
-* Bash
-* C++
-* MySQL
 ### Skills
-* Java, C#, Python, JavaScript, C++, HTML, CSS, 
-* SQL, Sql Server
-* Unity, Godot, GSC, CSC
-* Bash, PowerShell
-* Git, Github
-### Collaboration Ideas
-* Game Mods
-* 2D Games, 3D Games
-* Applications (Java, C#, C++, Python, JavaScript)
-### Interests
-* Building / Fixing Computers
-* Gaming
-* Coding
+* Java, C#, Python, C++, PHP, Bash, .NET
+* HTML5 & CSS, JavaScript, Bootstrap, AJAX, 
+* SQL, MySQL, T-SQL
+* Unity, Godot, GSC, Git
+* 
 ### Reach me at 
 * **Email:** dileob23@gmail.com, devdrendos@gmail.com
 * **StackOverflow:** @devbrendandileo
 * **LinkedIn:** @brendandileo (brendan-dileo)
-Fun fact **My favourite Pokemon is Zekrom, I built my first computer in the 5th grade, and I like to golf!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
