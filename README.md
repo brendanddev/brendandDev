@@ -2,14 +2,13 @@
 <h3 align="center">An aspiring full stack developer from Tronto!</h3>
 
 ### Skills
-* Java, C#, Python, C++, PHP, Bash, .NET
+* Java, C#, Python, PHP, Bash, .NET, C++
 * HTML5 & CSS, JavaScript, Bootstrap, AJAX, 
 * SQL, MySQL, T-SQL
-* Unity, Godot, GSC, Git
-* 
+* Unity, Godot, GSC, Git, Linux, MacOS, Windows
 ### Reach me at 
 * **Email:** dileob23@gmail.com, devdrendos@gmail.com
-* **StackOverflow:** @devbrendandileo
+* **Stackoverflow:** @devbrendandileo
 * **LinkedIn:** @brendandileo (brendan-dileo)
 
 <h3 align="left">Connect with me:</h3>
