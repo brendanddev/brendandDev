@@ -8,8 +8,9 @@
 * **Game Dev:** Unity, Godot, GDScript, GSC
 * **Other:** Git, Linux, macOS, Windows
 
+### Reach me at:
 <p align="left">
-    <a href="mailto:dileob23@gmail.com">
+    <a href="mailto:dileob23@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Email" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/brendan-dileo-bb39b4328/" target="_blank">
