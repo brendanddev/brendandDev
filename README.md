@@ -2,14 +2,17 @@
 <h3 align="center">An aspiring full stack developer from Tronto!</h3>
 
 ### Skills
-* Java, C#, Python, PHP, Bash, .NET, C++
-* HTML5 & CSS, JavaScript, Bootstrap, AJAX, 
-* SQL, MySQL, T-SQL
-* Unity, Godot, GSC, Git, Linux, MacOS, Windows
-### Reach me at 
-* **Email:** dileob23@gmail.com, devdrendos@gmail.com
-* **Stackoverflow:** @devbrendandileo
-* **LinkedIn:** @brendandileo (brendan-dileo)
+* **Programming**: Java, Python, C# & C#.NET, PHP, Bash, C++
+* **Web**: HTML5 & CSS, JavaScript, Bootstrap, AJAX, FETCH 
+* **Database:** SQL, MySQL/MariaDB, T-SQL
+* **Game Dev:** Unity, Godot, GDScript, GSC
+* **Other:** Git, Linux, macOS, Windows
+
+### Reach me at
+[Email](dileob23@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/brendan-dileo-bb39b4328/)
+[StackOverflow](https://stackoverflow.com/users/24895390/brendan-d)
+[LeetCode](https://leetcode.com/u/devbrendandileo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
