@@ -26,4 +26,4 @@
 
 [![Brendan's GitHub | Languages Over Time](https://stats.quira.sh/devDrendos/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=devDrendos)
 
-[![Brendan's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)](https://stackoverflow.com/users/3840208/brendan-d)
+[![Brendan's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=24895390)](https://stackoverflow.com/users/24895390/brendan-d)
