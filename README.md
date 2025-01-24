@@ -44,19 +44,13 @@
     </a>
 </p>
 
-### Reach me at
+### Connect with me or Reach me at
 [Email](dileob23@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/brendan-dileo-bb39b4328/)
-[StackOverflow](https://stackoverflow.com/users/24895390/brendan-d)
-[LeetCode](https://leetcode.com/u/devbrendandileo/)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/drendos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="drendos" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/devdrendos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devdrendos" height="30" width="40" /></a>
-</p>
+[LeetCode](https://leetcode.com/u/devbrendandileo/)
+ <a href="https://dev.to/drendos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="drendos" height="30" width="40" /></a>
+
 
 [![Brendan's GitHub | Stats](https://stats.quira.sh/devDrendos/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=devDrendos)
 [![Brendan's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=24895390)](https://stackoverflow.com/users/24895390/brendan-d)
