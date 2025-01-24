@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Brendan / @brendanddev !!</h1>
-<h3 align="center">An aspiring full stack developer from Tronto!</h3>
+<h3 align="center">Aspiring Full-Stack Developer from Toronto!</h3>
 
 ### Skills
 * **Programming**: Java, Python, C# & C#.NET, PHP, Bash, C++
