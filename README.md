@@ -72,8 +72,6 @@
 </p>
 
 ### Connect with me or Reach me at
-[Email](dileob23@gmail.com)
-
 <a href="https://www.linkedin.com/in/brendan-dileo-bb39b4328/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Alt" height="30" width="40" />
 </a>
@@ -96,8 +94,12 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="WordPress" height="30" width="40" />
 </a>
 
+[Email](dileob23@gmail.com)
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brendanddev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+[![Brendan's GitHub | Stats](https://github-readme-stats.vercel.app/api/top-langs?username=brendanddev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs username=brendanddev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 [![Brendan's GitHub | Stats](https://stats.quira.sh/devDrendos/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=devDrendos)
 [![Brendan's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=24895390)](https://stackoverflow.com/users/24895390/brendan-d)
 
