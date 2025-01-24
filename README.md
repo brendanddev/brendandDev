@@ -42,6 +42,33 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mariadb.svg" alt="mariadb" width="40" height="40"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/dotnet.svg" alt="dotnet" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" width="40" height="40"/>
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="unity" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Software/photoshop.svg" alt="photoshop" width="40" height="40"/>
+    </a>
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Testing/selenium.svg" alt="selenium" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/azure.svg" alt="azure" width="40" height="40"/>
+    </a>
 </p>
 
 ### Connect with me or Reach me at
@@ -70,6 +97,7 @@
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brendanddev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 [![Brendan's GitHub | Stats](https://stats.quira.sh/devDrendos/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=devDrendos)
 [![Brendan's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=24895390)](https://stackoverflow.com/users/24895390/brendan-d)
 
