@@ -8,12 +8,6 @@
 * **Game Dev:** Unity, Godot, GDScript, GSC
 * **Other:** Git, Linux, macOS, Windows
 
-### Reach me at
-[Email](dileob23@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/brendan-dileo-bb39b4328/)
-[StackOverflow](https://stackoverflow.com/users/24895390/brendan-d)
-[LeetCode](https://leetcode.com/u/devbrendandileo/)
-
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -49,6 +43,14 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
 </p>
+
+### Reach me at
+[Email](dileob23@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/brendan-dileo-bb39b4328/)
+[StackOverflow](https://stackoverflow.com/users/24895390/brendan-d)
+[LeetCode](https://leetcode.com/u/devbrendandileo/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
