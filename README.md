@@ -96,9 +96,9 @@
 
 [Email](dileob23@gmail.com)
 
-![Brendan's GitHub | Stats](https://github-readme-stats.vercel.app/api/top-langs?username=brendanddev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-[![Brendan's GitHub | Stats](https://stats.quira.sh/devDrendos/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=devDrendos)
 [![Brendan's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=24895390)](https://stackoverflow.com/users/24895390/brendan-d)
+[![Brendan's GitHub | Stats](https://stats.quira.sh/devDrendos/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=devDrendos)
+![Brendan's GitHub | Stats](https://github-readme-stats.vercel.app/api/top-langs?username=brendanddev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 [![Brendan's GitHub | Languages Over Time](https://stats.quira.sh/devDrendos/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=devDrendos)
 
