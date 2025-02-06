@@ -3,6 +3,30 @@
 <h4 align="center"><strong>Please contact for academic projects not allowed on public repos.</strong></h4>
 
 ### Skills
+### Skills
+* **Programming**: Java, Python, C# & C#.NET, PHP, Bash, C++
+<p align="left">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
+</p>
+
+
+
+
+
 * **Programming**: Java, Python, C# & C#.NET, PHP, Bash, C++
 * **Web**: HTML5 & CSS, JavaScript, Bootstrap, AJAX, FETCH 
 * **Database:** SQL, MySQL/MariaDB, T-SQL
