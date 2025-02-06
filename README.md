@@ -4,7 +4,7 @@
 
 ### Skills
 <!-- Programming Language Skills -->
-* **Programming**: Java, Python, C# & C#.NET, PHP, Bash, C++
+* **Programming**: Java, Python, C# & C#.NET, PHP, Bash, C++, xCode
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -27,9 +27,12 @@
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/>
+    </a>
 </p>
 
-* **Web**: HTML5 & CSS, JavaScript, Node.JS, React, Bootstrap, AJAX, FETCH
+* **Web**: HTML5 & CSS, JavaScript, Node.JS, React, Vite, Bootstrap, AJAX, FETCH
 <!-- Web Development Skills -->
 <p align="left">
      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -55,29 +58,27 @@
     </a>
 </p>
 
-* **Database:** SQL, MySQL/MariaDB, T-SQL
+* **Database:** SQL Server & T-SQL, MySQL & MariaDB
 <!-- Database Development Skills -->
 <p align="left">
+<p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mariadb.svg" alt="mariadb" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
     </a>
 </p>
 
 * **Game Dev:** Unity, Godot, GDScript, GSC
 <!-- Game Development Skills -->
 <p align="left">
-    <a href="https://godotengine.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
+
 </p>
 
-* **Other:** Git, Linux, macOS, Windows
+
+
+* **Other:** Git, JSON, Linux, macOS, Windows, Premiere Pro
 <!-- Other Skills -->
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -87,6 +88,9 @@
         <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
     </a>
 </p>
+
+https://www.vectorlogo.zone/logos/linux/linux-icon.svg
+
 
 <!-- Connect Section -->
 ### Connect with me or Reach me at
