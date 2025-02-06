@@ -73,13 +73,15 @@
 * **Game Dev:** Unity, Godot, GDScript, GSC
 <!-- Game Development Skills -->
 <p align="left">
-
+    <a href="https://godotengine.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/>
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    </a>
 </p>
 
-
-
 * **Other:** Git, JSON, Linux, macOS, Windows, Premiere Pro
-<!-- Other Skills -->
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -87,10 +89,16 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
     </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="40" height="40"/>
+    </a>
 </p>
-
-https://www.vectorlogo.zone/logos/linux/linux-icon.svg
-
 
 <!-- Connect Section -->
 ### Connect with me or Reach me at
