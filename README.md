@@ -1,8 +1,7 @@
 
-
-<h1 align="center">Hello, I'm Brendan / @brendanddev !!</h1>
-<h3 align="center">Aspiring Full-Stack Developer from Toronto!</h3>
-<h4 align="center"><strong>Please contact for academic projects not allowed on public repos.</strong></h4>
+# Hi! I'm Brendan!
+## Aspiring Full Stack Developer from Toronto
+## Please contact me for academic projects not allowed to be showcased.
 
 ### Skills
 
