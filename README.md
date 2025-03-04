@@ -1,9 +1,68 @@
+
+
 <h1 align="center">Hello, I'm Brendan / @brendanddev !!</h1>
 <h3 align="center">Aspiring Full-Stack Developer from Toronto!</h3>
 <h4 align="center"><strong>Please contact for academic projects not allowed on public repos.</strong></h4>
 
 ### Skills
-<!-- Programming Language Skills -->
+
+### Programming Languages
+
+- **Java**
+
+- **Python**
+
+- **C# & C#.NET**
+
+- **PHP**
+
+- **Bash**
+
+- **C++**
+
+- **xCode**
+
+
+<p align="left">
+
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+
+    </a>
+
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+    </a>
+
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+
+    </a>
+
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+
+    </a>
+
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+
+    </a>
+
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
+
+    </a>
+
+</p>
+
 * **Programming**: Java, Python, C# & C#.NET, PHP, Bash, C++, xCode
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
