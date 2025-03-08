@@ -5,47 +5,24 @@
 
 ### Skills
 
-### Programming Languages
-- Java
-- Python
-- C# & C#.NET
-- PHP
-- Bash
-- Swift
+### Programming Languages  
+| Java | Python | C# (.NET) | PHP | Bash | Swift |  
+|------|--------|----------|-----|------|-------|  
 
-### Web Development
-- JavaScript
-- React
-- React Native
-- NodeJS
-- TailwindCSS
-- Bootstrap
-- HTML & CSS
-- Vite
+### Web Development  
+| JavaScript (ES6+) | React / React Native | Node.js | TailwindCSS | Bootstrap | HTML & CSS | Vite |  
+|------------------|---------------------|---------|------------|----------|------------|------|  
 
-### Database & Game Development
-- Unity
-- Godot (GDScript)
-- GSC 
-- SQL Server & T-SQL
-- MySQL
+### Database & Game Development  
+| Unity (C#) | Godot (GDScript) | GSC | SQL Server (T-SQL) | MySQL |  
+|-----------|-----------------|-----|------------------|-------|  
 
-### Other Technologies
-- Git
-- JSON
-- Linux
-- macOS
-- Windows
-- Premiere Pro
-- xCode
-- Gimp
-   
-## Connect With Me
-- GitHub
-- LinkedIn
-- StackOverflow
-- LeetCode
-- Discord
-- Wordpress
-- DEV
-- Email
+### Other Technologies  
+| Git / GitHub | JSON | Linux | macOS & Windows | Adobe Premiere Pro | Xcode | GIMP |  
+|-------------|------|------|--------------|-----------------|------|------|  
+
+---
+
+## Connect With Me  
+[GitHub](#) | [LinkedIn](#) | [Stack Overflow](#) | [LeetCode](#)  
+[Discord](#) | [WordPress](#) | [DEV](#) | 📧 Email Me  
